@@ -32,7 +32,6 @@ public class MainActivity extends Activity implements AssuranceDialog.AssuranceD
 			@Override
 			public void onClick(View v) {
 				blackjackView.beginGame();
-					
 			}
 		});
 		
